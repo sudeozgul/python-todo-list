@@ -16,3 +16,8 @@ This project is a simple command-line based To-Do List application developed usi
 
 ## Purpose
 This project was developed during an internship process to gain hands-on experience with Python programming and file operations.
+
+## User Guide
+A detailed user guide for this project is available as a PDF file:
+
+- [To-Do List User Guide](todo_list_user_guide.pdf)
