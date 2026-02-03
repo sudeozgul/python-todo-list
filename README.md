@@ -21,3 +21,6 @@ This project was developed during an internship process to gain hands-on experie
 A detailed user guide for this project is available as a PDF file:
 
 - [To-Do List User Guide](todo_list_user_guide.pdf)
+
+## Author
+Sude Özgül
